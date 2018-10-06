@@ -2,7 +2,7 @@
 
 simple java service for webcam
 
-will gives list of webcams
-you can switch in between
-capture image
-save it to local directory
+1. will gives list of webcams
+2. you can switch in between
+3. capture image
+4. save it to local directory
